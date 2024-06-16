@@ -20,14 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-<img src="screenshots/1.png" alt="Home Screen" width="300"/>
-
-<img src="screenshots/2.png" alt="Meal Details" width="300"/>
-
-<img src="screenshots/3.png" alt="Favorites Screen" width="300"/>
-
-<img src="screenshots/4.png" alt="Home Screen" width="300"/>
-
-<img src="screenshots/5.png" alt="Meal Details" width="300"/>
-
-<img src="screenshots/6.png" alt="Favorites Screen" width="300"/>
+<img src="screenshots/1.png" alt="Home Screen" width="300"/> <img src="screenshots/2.png" alt="Meal Details" width="300"/> <img src="screenshots/3.png" alt="Home Screen" width="300"/> <img src="screenshots/4.png" alt="Home Screen" width="300"/> <img src="screenshots/5.png" alt="Meal Details" width="300"/> <img src="screenshots/6.png" alt="Favorites Screen" width="300"/>
